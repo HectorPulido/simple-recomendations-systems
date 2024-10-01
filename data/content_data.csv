@@ -1,0 +1,6 @@
+ArticleID,Title,Description,Keywords
+Articulo1,Aprendiendo Python,"Este libro cubre los fundamentos de Python, incluyendo sintaxis y estructuras de datos.",Python programación desarrollo
+Articulo2,Introducción a Machine Learning,Un curso sobre los conceptos básicos de Machine Learning y cómo aplicarlos.,Machine Learning IA algoritmos
+Articulo3,Guía de Data Science,Explora técnicas de Data Science y cómo trabajar con datos.,Data Science análisis datos
+Articulo4,Aprende programación en R,Un tutorial para comenzar a programar en R para análisis estadístico.,R estadística programación
+Articulo5,Deep Learning avanzado,Profundiza en técnicas avanzadas de Deep Learning y redes neuronales.,Deep Learning redes neuronales
